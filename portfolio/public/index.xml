@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eshaan's Site</title><link>https://example.org/</link><description>Recent content on Eshaan's Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Feb 2024 16:30:42 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.org/about/</link><pubDate>Tue, 20 Feb 2024 16:30:42 -0500</pubDate><guid>https://example.org/about/</guid><description>About me here.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eshaan&#39;s Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Eshaan&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 16:41:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 20 Feb 2024 16:41:09 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 20 Feb 2024 16:38:47 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>My resume is below</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 20 Feb 2024 16:30:42 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About me here.</description>
+    </item>
+  </channel>
+</rss>
